@@ -15,7 +15,7 @@ function Projects() {
          <ProjectCard 
         src={speechrecogniition} 
         link="https://speechrecogniition.netlify.app/" 
-        h3="Speech Recognition"
+        h3="Speech-Reco"
         p='Speech Recognition App'
         />
       
