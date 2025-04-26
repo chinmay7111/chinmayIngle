@@ -12,7 +12,7 @@ function Projects() {
     <section id="projects" className={styles.container }>
       <h1 className='sectionTitle'>Projects</h1>
       <div className={styles.projectContainer}>
-        <ProjectCard 
+         <ProjectCard 
         src={speechrecogniition} 
         link="https://speechrecogniition.netlify.app/" 
         h3="Speech Recognition"
