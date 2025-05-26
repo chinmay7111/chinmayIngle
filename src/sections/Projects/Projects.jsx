@@ -39,6 +39,13 @@ function Projects() {
         h3="FitLift"
         p='Fitness App'
         />
+        
+        <ProjectCard 
+        src={liftfit} 
+        link="https://fnstasks.web.app/ucsfClone/index.html" 
+        h3="Clone"
+        p='Fitness App'
+        />
       
       
       </div>
