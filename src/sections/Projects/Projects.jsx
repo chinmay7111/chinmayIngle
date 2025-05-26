@@ -5,6 +5,7 @@ import speechrecogniition from '../../assets/speechRecongnition.png'
 import viberr from '../../assets/viberr.png'
 // import hipsster from '../../assets/hipsster.png'
 import liftfit from '../../assets/fitlift.png'
+import others from '../../assets/images.jpg'
 import ProjectCard from '../../common/ProjectCard'
 function Projects() {
   return (
@@ -41,10 +42,10 @@ function Projects() {
         />
         
         <ProjectCard 
-        src={liftfit} 
+        src={others} 
         link="https://fnstasks.web.app/ucsfClone/index.html" 
         h3="Clone"
-        p='Fitness App'
+        p='ucsf clone'
         />
       
       
